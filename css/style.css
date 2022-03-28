@@ -190,6 +190,8 @@ img {
   flex-wrap: wrap;
   align-items: center;
   align-items: flex-end;
+  max-width: 960px;
+  margin: 60px auto;
 }
 
 .preco-item {
