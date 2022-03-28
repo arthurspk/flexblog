@@ -24,5 +24,5 @@ Você pode acessar o site pelo link abaixo:
 
 # 💼 Direitos
 
-Todos os direitos reservados por André Rafael - [Origamid](https://www.origamid.com/)
-Feito por Arthur Coutinho
+- Todos os direitos reservados por André Rafael - [Origamid](https://www.origamid.com/) <br>
+- Feito por Arthur Coutinho
