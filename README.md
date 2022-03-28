@@ -1,4 +1,4 @@
-# FlexBlog - desenvolvido para aprimoramento de Flexbox no CSS.
+# FlexBlog - aprimorando o Flexbox no CSS.
 
 <img src="img/flexblog.png" alt="FlexBlog"> <br>
 
@@ -6,7 +6,8 @@
 
 # 🎇 Tecnologias
 
-<p> Esse projeto foi desenvolvido com as seguintes tecnologias </p>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 - HTML 5
 - CSS 3 (Utilizando o Flexbox // Display: flex;)
 
